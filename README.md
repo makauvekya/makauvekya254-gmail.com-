@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| network attacks analysis lab|        | <a href=https://github.com/makauvekya/network-attacks-analysis-lab.git>network attacks analysis lab</a>|
+| analysing-network-attacks        | <a href=https://github.com/makauvekya/ANALYSING-NETWORK-ATTACKS.git>ANALYSING-NETWORK-ATTACKS</A>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
