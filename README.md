@@ -56,5 +56,5 @@ lab                                         |<a href=https://github.com/makauvek
 </div>
 
 ## Projects
-- Detection Lab
+- <a href=https://github.com/makauvekya/cybersecurity-incident-analysis-report.git>cybersecurity-incident-analysis-report</a>
 - SOC Automation Project
