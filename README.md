@@ -58,5 +58,6 @@ lab                                         |<a href=https://github.com/makauvek
 ## Projects
 - <a href=https://github.com/makauvekya/Analyses-of-network-attacks.git>Analyses-of-network-attacks</a>
 - <a href=https://github.com/makauvekya/cybersecurity-incident-analysis-report.git>cybersecurity-incident-analysis-report</a>
-<a href=https://github.com/makauvekya/Installing-software-in-linux-Lab.git>Installing-software-in-linux-Lab</a>
+-  <a href="https://github.com/makauvekya/Installing-software-in-linux-Lab.git">Installing software in Linux Lab</a>
+
 - soc lab >>>
