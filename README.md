@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | analysing-network-attacks        | <a href=https://github.com/makauvekya/ANALYSING-NETWORK-ATTACKS.git>ANALYSING-NETWORK-ATTACKS</A>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+|Installing-software-in-linux-Lab         | |<a href=https://github.com/makauvekya/Installing-software-in-linux-Lab.git>Installing-software-in-linux-Lab</a>
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
