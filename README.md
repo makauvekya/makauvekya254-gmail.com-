@@ -61,4 +61,5 @@ lab                                         |<a href=https://github.com/makauvek
 -  <a href="https://github.com/makauvekya/Installing-software-in-linux-Lab.git">Installing software in Linux Lab</a>
 -  <a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>
 - <a href=https://github.com/makauvekya/SQL-Queries-and-application-of-filters-on-SQL-queries-.git>SQL-Queries-and-application-of-filters-on-SQL-queries-</a>
-- soc lab >>>
+  <a href=https://github.com/makauvekya/assets-threats.git>assets-threats</a>
+- soc lab >>=>:
