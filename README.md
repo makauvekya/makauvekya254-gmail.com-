@@ -66,4 +66,5 @@ lab                                         |<a href=https://github.com/makauvek
 -  <a href="https://github.com/makauvekya/Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump.git">Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump</a>
 
 -  <a href=https://github.com/makauvekya/Investigate-file-hash-using-Virus-total.git>Investigate-file-hash-using-Virus-total</a>
+-  <a href=https://github.com/makauvekya/Monitor-network-interface-for-alerts-using-Suricata.git>Monitor-network-interface-for-alerts-using-Suricata</a>
 
