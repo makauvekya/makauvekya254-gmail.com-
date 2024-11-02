@@ -62,4 +62,5 @@ lab                                         |<a href=https://github.com/makauvek
 -  <a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>
 - <a href=https://github.com/makauvekya/SQL-Queries-and-application-of-filters-on-SQL-queries-.git>SQL-Queries-and-application-of-filters-on-SQL-queries-</a>
 -  <a href="https://github.com/makauvekya/assets-threats.git">assets-threats</a>
+-  <a href=https://github.com/makauvekya/Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump.git>Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump</a>
 - soc lab >>=>:
