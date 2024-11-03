@@ -1,5 +1,4 @@
 # Hello, I'm Nicholas
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 I am about to graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objectives
@@ -43,7 +42,6 @@ lab                                         |<a href=https://github.com/makauvek
 </div>
 
  ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
