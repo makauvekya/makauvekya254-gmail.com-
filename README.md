@@ -57,7 +57,7 @@ lab                                         |<a href=https://github.com/makauvek
 </div>
 
  ## Projects
-<a href=https://github.com/makauvekya/Automate-Cybersecurity-Tasks-With-Python-Portolio.git>Automate-Cybersecurity-Tasks-With-Python-Portolio</a>
+- <a href=https://github.com/makauvekya/Automate-Cybersecurity-Tasks-With-Python-Portolio.git>Automate-Cybersecurity-Tasks-With-Python</a>
 - <a href=https://github.com/makauvekya/Analyses-of-network-attacks.git>Analyses-of-network-attacks</a>
 - <a href=https://github.com/makauvekya/cybersecurity-incident-analysis-report.git>cybersecurity-incident-analysis-report</a>
 -  <a href="https://github.com/makauvekya/Installing-software-in-linux-Lab.git">Installing software in Linux Lab</a>
