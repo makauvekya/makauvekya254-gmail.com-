@@ -8,9 +8,9 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| analysing-network-attacks        | <a href=https://github.com/makauvekya/ANALYSING-NETWORK-ATTACKS.git>ANALYSING-NETWORK-ATTACKS</A>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>
-|Installing-software-in-linux-Lab         | |<a href=https://github.com/makauvekya/Installing-software-in-linux-Lab.git>Installing-software-in-linux-Lab</a>
+|automate cybersecurity tasks using python        | <a href= https://github.com/makauvekya/GOOGLE-CYBERSECURITY-CERTIFICATES-.git>GOOGLE-CYBERSECURITY-CERTIFICATES</a>|
+| Network Traffic Monitoring and Attack Detection | <a href=https://github.com/makauvekya/Analyses-of-network-attacks.git>Analyses-of-network-attacks</a>              |
+|Installing-software-in-linux-Lab         |       |<a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
