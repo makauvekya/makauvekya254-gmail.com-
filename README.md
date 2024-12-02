@@ -16,9 +16,9 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 | Scripting and Automation for Threat Mitigation  |<a href=https://github.com/makauvekya/Monitor-network-interface-for-alerts-using-Suricata.git>Monitor-network-interface-for-alerts-using-Suricata</a> |
 |lab                                               |<a href=https://github.com/makauvekya/Investigate-file-hash-using-Virus-total.git>Investigate-file-hash-using-Virus-total</a>|
 
-|    lab                                 |         |<a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|
+|    lab |                                         |<a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|
 
-|     lab                               |            |<a href=https://github.com/makauvekya/SQL-Queries-and-application-of-filters-on-SQL-queries-.git>SQL-Queries-and-application-of-filters-on-SQL-queries-</a>|
+|     lab|                                         |<a href=https://github.com/makauvekya/SQL-Queries-and-application-of-filters-on-SQL-queries-.git>SQL-Queries-and-application-of-filters-on-SQL-queries-</a>|
 
 
  ## Tools
