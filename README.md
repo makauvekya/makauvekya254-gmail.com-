@@ -9,8 +9,7 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |automate cybersecurity tasks using python        |<a href=https://github.com/makauvekya/Automate-Cybersecurity-Tasks-With-Python-Portolio.git>Automate-Cybersecurity-Tasks-With-Python</a> |
-| Network Traffic Monitoring and Attack Detection |<a href=https://github.com/makauvekya/Analyses-of-network-attacks.git>Analyses-of-network-attacks</a> 
-|
+| Network Traffic Monitoring and Attack Detection |<a href=https://github.com/makauvekya/Analyses-of-network-attacks.git>Analyses-of-network-attacks</a> |
 |         |                                       | <a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|              
 | Incident Response Planning and Execution        |<a href="https://github.com/makauvekya/Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump.git">Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump</a> |
 | Case Management with TheHive                    |<a href=https://github.com/makauvekya/perform-a-querry-to-analyze-log-data-using-splunk.git>perform-a-querry-to-analyze-log-data-using-splunk.git</a>|
@@ -19,7 +18,7 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 |    lab   |                                      |<a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|
 
-|     lab        |                                |<a href=https://github.com/makauvekya/SQL-Queries-and-application-of-filters-on-SQL-queries-.git>SQL-Queries-and-application-of-filters-on-SQL-queries-</a>|
+|     lab        |                      |<a href=https://github.com/makauvekya/SQL-Queries-and-application-of-filters-on-SQL-queries-.git>SQL-Queries-and-application-of-filters-on-SQL-queries-</a>|
 
 
  ## Tools
