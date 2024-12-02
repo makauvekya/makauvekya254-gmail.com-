@@ -14,7 +14,7 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 | Network Traffic Monitoring and Detection with TCPDUMP        |<a href="https://github.com/makauvekya/Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump.git">Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump</a> |
 | Perform Querry to analyze log Data using Splunk                   |<a href=https://github.com/makauvekya/perform-a-querry-to-analyze-log-data-using-splunk.git>perform-a-querry-to-analyze-log-data-using-splunk.git</a>|
 | Monitor network Interface using SURICATA  |<a href=https://github.com/makauvekya/Monitor-network-interface-for-alerts-using-Suricata.git>Monitor-network-interface-for-alerts-using-Suricata</a> |
-|lab                                              |<a href=https://github.com/makauvekya/Investigate-file-hash-using-Virus-total.git>Investigate-file-hash-using-Virus-total</a>|
+|       Investigate file Hash by use of Virus Total                                     |<a href=https://github.com/makauvekya/Investigate-file-hash-using-Virus-total.git>Investigate-file-hash-using-Virus-total</a>|
 
 |    lab   |                                      |<a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|
 
