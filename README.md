@@ -10,13 +10,13 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 |-----------------------------------------------|----------------------------|
 |automate cybersecurity tasks using python        |<a href=https://github.com/makauvekya/Automate-Cybersecurity-Tasks-With-Python-Portolio.git>Automate-Cybersecurity-Tasks-With-Python</a> |
 | Network Traffic Monitoring and Attack Detection |<a href=https://github.com/makauvekya/Analyses-of-network-attacks.git>Analyses-of-network-attacks</a>              |
-|Installing-software-in-linux-Lab         |       | <a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|
+|         |                                       | <a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|              
 | Incident Response Planning and Execution        |<a href="https://github.com/makauvekya/Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump.git">Network-Traffic-Monitoring-and-Attack-Detection-with-tcpdump</a> |
 | Case Management with TheHive                    |<a href=https://github.com/makauvekya/perform-a-querry-to-analyze-log-data-using-splunk.git>perform-a-querry-to-analyze-log-data-using-splunk.git</a>|
 | Scripting and Automation for Threat Mitigation  |<a href=https://github.com/makauvekya/Monitor-network-interface-for-alerts-using-Suricata.git>Monitor-network-interface-for-alerts-using-Suricata</a> |
-lab                                               |<a href=https://github.com/makauvekya/Investigate-file-hash-using-Virus-total.git>Investigate-file-hash-using-Virus-total</a>|
-
- 
+|lab                                               |<a href=https://github.com/makauvekya/Investigate-file-hash-using-Virus-total.git>Investigate-file-hash-using-Virus-total</a>|
+|                                     |            |<a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|
+ |                                    |            | <a href=https://github.com/makauvekya/SQL-Queries-and-application-of-filters-on-SQL-queries-.git>SQL-Queries-and-application-of-filters-on-SQL-queries-</a>|
  ## Tools
 
 ### Network
