@@ -18,7 +18,7 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 |    lab |                                         |<a href=https://github.com/makauvekya/Linux-commands-to-manage-files-permissions-and-directories.git>Linux-commands-to-manage-files-permissions-and-directories</a>|
 
-|     lab|                                         |<a href=https://github.com/makauvekya/SQL-Queries-and-application-of-filters-on-SQL-queries-.git>SQL-Queries-and-application-of-filters-on-SQL-queries-</a>|
+|     lab             |                             |<a href=https://github.com/makauvekya/SQL-Queries-and-application-of-filters-on-SQL-queries-.git>SQL-Queries-and-application-of-filters-on-SQL-queries-</a>|
 
 
  ## Tools
